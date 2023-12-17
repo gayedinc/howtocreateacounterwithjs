@@ -1,2 +1,2 @@
-# howtocreateacounterwithjs
-Counter with Javascript
+# Counter with JS
+In this project I made a counter using Javascript.
